@@ -25,3 +25,14 @@ Output plots and files will be saved to the local project directory.
 
 * Docker
 * Internet connection (for initial telemetry data fetch)
+
+## 📚 Resources
+
+- [FastF1 Documentation](https://docs.fastf1.dev/) – Official guide for using the FastF1 Python library to access and analyze Formula 1 telemetry data.
+
+
+## 📌 Notes
+
+- The telemetry data used in this project is openly available through public APIs.
+- This repository is part of an experimental effort to explore and visualize motorsport data using modern Python tools.
+- All driver, team, and event names belong to their respective owners; this project is unaffiliated with Formula 1 or its official entities.
