@@ -29,8 +29,8 @@ The project requires the following Python libraries:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Anish1606/f1-telemetry-analysis.git
-cd f1-telemetry-analysis
+git clone https://github.com/Anish1606/F1-Telemetry-Analysis.git
+cd F1-Telemetry-Analysis
 ```
 
 ### 2. Build Docker Image
