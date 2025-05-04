@@ -10,17 +10,6 @@ The setup includes Docker support for consistent execution across environments.
 - Visualization of car performance metrics
 - Dockerized environment for easy deployment
 
-## Getting Started
-
-To run the project using Docker:
-
-```bash
-docker build -t f1-telemetry .
-docker run --rm -v $(pwd):/app f1-telemetry
-````
-
-Output plots and files will be saved to the local project directory.
-
 ## Requirements
 
 * Docker
